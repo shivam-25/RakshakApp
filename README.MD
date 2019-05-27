@@ -1,8 +1,6 @@
-# Damsel-In-Distress
+# Rakshak App
 An android app that focuses on women safety. It plays high frequency scream when the phone is shaken strongly thrice and simultaneously sends text alert to people nearby her current location who have the application installed with her location coordinates.
 
-## Download
-Download app from [here](https://github.com/DevipriyaSarkar/Damsel-In-Distress/releases).
 
 ## Screenshots
 <img src="screenshots/screenshot1.png" width="360" alt="Splash Screen" >
@@ -18,5 +16,3 @@ Download app from [here](https://github.com/DevipriyaSarkar/Damsel-In-Distress/r
 	At the end, you'll download a `google-services.json` file which should be moved to [`app/`](app/).
 4. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
 
-## License
-The content of this repository is licensed under [MIT LICENSE](LICENSE).
