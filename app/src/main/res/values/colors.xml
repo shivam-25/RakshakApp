@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F443FF</color>
+    <color name="colorPrimaryDark">#D32FFF</color>
+    <color name="colorPrimaryLight">#ffcdFF</color>
+    <color name="colorAccent">#7955FF</color>
+    <color name="colorAccentLight">#d7cc22</color>
+    <color name="cardBackground">#FAFAFA</color>
+    <color name="lightColorAccent">#30FF4081</color>
+    <color name="agora_blue">#FF00A0EB</color>
+
+    <color name="dark_black">#CC262626</color>
+</resources>
